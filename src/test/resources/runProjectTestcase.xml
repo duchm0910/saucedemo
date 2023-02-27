@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="false">
+    <parameter name="url" value="https://www.saucedemo.com/"/>
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+        <listener class-name="commons.MethodListener"></listener>
+        <listener class-name="commons.ReportNGListener"></listener>
+    </listeners>
+
+    <test name="Run on CHROME" preserve-order="true">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="gforce.saucedemo.testcase.Test_Case_Login"/>
+<!--            <class name="gforce.saucedemo.testcase.Test_Case_Sort_Function"/>-->
+<!--            <class name="gforce.saucedemo.testcase.Test_Case_Add_To_Cart"/>-->
+<!--            <class name="gforce.saucedemo.testcase.Test_Case_Purchase"/>-->
+        </classes>
+    </test>
+
+    <!--<test name="Run on CHROME 2" preserve-order="true">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="gforce.saucedemo.testcase.Test_Case_Sort_Function"/>
+        </classes>
+    </test>
+
+
+    <test name="Run on CHROME 3" preserve-order="true">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="gforce.saucedemo.testcase.Test_Case_Add_To_Cart"/>
+        </classes>
+    </test>
+
+
+    <test name="Run on CHROME 4" preserve-order="true">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="gforce.saucedemo.testcase.Test_Case_Purchase"/>
+        </classes>
+    </test>-->
+
+</suite>
