@@ -65,7 +65,10 @@ public class Test_Case_Add_To_Cart extends BaseTest {
 		verifyTrue(result);
 	}
 
-
+	@AfterTest
+	public void afterTest(){
+		driver.quit();
+	}
 
 
 }

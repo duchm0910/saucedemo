@@ -107,7 +107,7 @@ public class BasePage {
 	}
 	private WebDriverWait explicitWait;
 //	private long shortTimeout = 5;
-	private long longTimeout =5;
+	private long longTimeout =15;
 	private Select select;
 
 }

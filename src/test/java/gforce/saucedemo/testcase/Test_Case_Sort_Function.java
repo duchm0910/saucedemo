@@ -18,17 +18,23 @@ public class Test_Case_Sort_Function extends BaseTest {
 	String password = "secret_sauce";
 
 	@Parameters({"browser","url"})
-	@BeforeTest
+	@BeforeClass
 	public void initBrowserDriver(String browser, String url){
 		log.info("Pre condition: Open Browser: " + browser + "and navigate to url:" + url);
 		driver = getBrowserDriver(browser,url);
-		log.info("Login to System");
-		loginPage = new LoginPO(driver);
-		inventoryPage = loginPage.logintoSystem(driver,username,password);
+//		log.info("Login to System");
+//		loginPage = new LoginPO(driver);
+//		inventoryPage = loginPage.logintoSystem(driver,username,password);
+
 	}
 
 	@Test(priority = 1)
 	public void Sort_01_Name(){
+		log.info("Login to System");
+		loginPage = new LoginPO(driver);
+		inventoryPage = loginPage.logintoSystem(driver,username,password);
+
+
 		String sortNameAZ = "Name (A to Z)";
 		String sortNameZA = "Name (Z to A)";
 
@@ -61,6 +67,9 @@ public class Test_Case_Sort_Function extends BaseTest {
 		verifyTrue(inventoryPage.isProductPriceSortDescending());
 	}
 
-
+	@AfterTest
+	public void afterTest(){
+		driver.quit();
+	}
 
 }

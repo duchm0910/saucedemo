@@ -15,23 +15,15 @@ public class PageGenerateManager {
 	}
 
 	public static LoginPO getLoginPage(WebDriver driver){
-		if(loginPage == null){
-			loginPage = new LoginPO(driver);
-		}
-		return loginPage;
+			return loginPage = new LoginPO(driver);
 	}
 
 	public static InventoryPO getInventoryPage(WebDriver driver)   {
-		if(inventoryPage == null){
-			inventoryPage = new InventoryPO(driver);
-		}
-		return inventoryPage;
+			return inventoryPage = new InventoryPO(driver);
 	}
 
 	public static CartPO getCartPage(WebDriver driver){
-		if(cardPage == null){
-			cardPage = new CartPO(driver);
-		}
-		return cardPage;
+			return cardPage = new CartPO(driver);
+
 	}
 }

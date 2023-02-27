@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Run on CHROME"
+<testsuite name="Test Case Login"
            tests="4"
            failures="0"
            errors="0"
            skipped="0"
-           time="2.032">
+           time="2.235">
   <properties />
   
   
-            <testcase name="Invalid_User_Name_Password_Login" time="0.633" classname="gforce.saucedemo.testcase.Test_Case_Login" />
-                <testcase name="Valid_User_Name_And_Invalid_Password_Login" time="0.437" classname="gforce.saucedemo.testcase.Test_Case_Login" />
-                <testcase name="Valid_Login" time="0.533" classname="gforce.saucedemo.testcase.Test_Case_Login" />
-                <testcase name="Invalid_User_Name_And_Valid_Password_Login" time="0.429" classname="gforce.saucedemo.testcase.Test_Case_Login" />
+            <testcase name="Invalid_User_Name_Password_Login" time="0.745" classname="gforce.saucedemo.testcase.Test_Case_Login" />
+                <testcase name="Valid_Login" time="0.571" classname="gforce.saucedemo.testcase.Test_Case_Login" />
+                <testcase name="Invalid_User_Name_And_Valid_Password_Login" time="0.451" classname="gforce.saucedemo.testcase.Test_Case_Login" />
+                <testcase name="Valid_User_Name_And_Invalid_Password_Login" time="0.468" classname="gforce.saucedemo.testcase.Test_Case_Login" />
       
 </testsuite>

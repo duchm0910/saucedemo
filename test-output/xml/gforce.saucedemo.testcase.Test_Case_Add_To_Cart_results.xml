@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Run on CHROME"
-           tests="1"
+<testsuite name="Test Case Add To Cart"
+           tests="3"
            failures="0"
            errors="0"
            skipped="0"
-           time="0.187">
+           time="10.937">
   <properties />
   
   
-            <testcase name="Add_A_Single_Item_To_Cart" time="0.187" classname="gforce.saucedemo.testcase.Test_Case_Add_To_Cart" />
+            <testcase name="Add_A_Single_Item_To_Cart" time="0.319" classname="gforce.saucedemo.testcase.Test_Case_Add_To_Cart" />
+                <testcase name="Add_Multiple_Items_To_Cart" time="0.279" classname="gforce.saucedemo.testcase.Test_Case_Add_To_Cart" />
+                <testcase name="Verify_Empty_Item_To_Cart" time="10.339" classname="gforce.saucedemo.testcase.Test_Case_Add_To_Cart" />
       
 </testsuite>

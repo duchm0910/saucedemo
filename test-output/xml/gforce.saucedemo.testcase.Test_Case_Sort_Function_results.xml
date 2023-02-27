@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Run on CHROME"
-           tests="1"
+<testsuite name="Test Case Sort Function"
+           tests="2"
            failures="0"
            errors="0"
            skipped="0"
-           time="0.287">
+           time="1.880">
   <properties />
   
   
-            <testcase name="Sort_02_Price" time="0.287" classname="gforce.saucedemo.testcase.Test_Case_Sort_Function" />
+            <testcase name="Sort_01_Name" time="1.333" classname="gforce.saucedemo.testcase.Test_Case_Sort_Function" />
+                <testcase name="Sort_02_Price" time="0.547" classname="gforce.saucedemo.testcase.Test_Case_Sort_Function" />
       
 </testsuite>

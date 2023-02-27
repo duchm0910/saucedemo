@@ -102,6 +102,10 @@ public class Test_Case_Login extends BaseTest {
 		verifyEquals(actualTitle,expectedTitle);
 	}
 
+	@AfterTest
+	public void afterTest(){
+		driver.quit();
+	}
 
 
 }

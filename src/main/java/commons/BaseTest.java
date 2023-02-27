@@ -10,6 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.Assert;
 import org.testng.Reporter;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterSuite;
 
 import java.util.concurrent.TimeUnit;
@@ -58,13 +59,12 @@ public class BaseTest {
 		return driver;
 	}
 
-	@AfterSuite
 	protected void cleanBrowserAndDriver() {
 		if (driver != null) {
 			log.info("Close");
 			driver.manage().deleteAllCookies();
 			driver.close();
-//			driver.quit();
+			driver.quit();
 			sleepInSecond(2);
 //			System.out.println("Close driver instance");
 		}

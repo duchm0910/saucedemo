@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite" parallel="false">
+<suite name="All Test Suite">
     <parameter name="url" value="https://www.saucedemo.com/"/>
     <listeners>
         <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
@@ -9,37 +9,42 @@
         <listener class-name="commons.ReportNGListener"></listener>
     </listeners>
 
-    <test name="Run on CHROME" preserve-order="true">
+  <!--  <test name="Run on CHROME" preserve-order="true">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="gforce.saucedemo.testcase.Test_Case_Purchase"/>
+           <class name="gforce.saucedemo.testcase.Test_Case_Login"/>
+            <class name="gforce.saucedemo.testcase.Test_Case_Sort_Function"/>
+            <class name="gforce.saucedemo.testcase.Test_Case_Add_To_Cart"/>
+        </classes>
+    </test>
+-->
+    <test name="Test Case Login" preserve-order="true">
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="gforce.saucedemo.testcase.Test_Case_Login"/>
-<!--            <class name="gforce.saucedemo.testcase.Test_Case_Sort_Function"/>-->
-<!--            <class name="gforce.saucedemo.testcase.Test_Case_Add_To_Cart"/>-->
-<!--            <class name="gforce.saucedemo.testcase.Test_Case_Purchase"/>-->
         </classes>
     </test>
 
-    <!--<test name="Run on CHROME 2" preserve-order="true">
+    <test name="Test Case Sort Function" preserve-order="true">
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="gforce.saucedemo.testcase.Test_Case_Sort_Function"/>
         </classes>
     </test>
 
-
-    <test name="Run on CHROME 3" preserve-order="true">
+    <test name="Test Case Add To Cart" preserve-order="true">
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="gforce.saucedemo.testcase.Test_Case_Add_To_Cart"/>
         </classes>
     </test>
 
-
-    <test name="Run on CHROME 4" preserve-order="true">
+    <test name="Test Case Purchase" preserve-order="true">
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="gforce.saucedemo.testcase.Test_Case_Purchase"/>
         </classes>
-    </test>-->
+    </test>
 
 </suite>

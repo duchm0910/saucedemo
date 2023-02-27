@@ -12,7 +12,7 @@
     </appender>
 
     <appender name="logfile" class="org.apache.log4j.FileAppender">
-        <param name="File" value="./monitorLogs/Intalent.txt" />
+        <param name="File" value="./monitorLogs/saucedemoLog.txt" />
         <param name="Append" value="false" />
         <layout class="org.apache.log4j.PatternLayout">
             <param name="ConversionPattern" value="[%-5p] [%d] %m%n" />
@@ -20,7 +20,7 @@
     </appender>
 
     <appender name="file" class="org.apache.log4j.RollingFileAppender">
-        <param name="file" value="./monitorLogs/Intalent.log" />
+        <param name="file" value="./monitorLogs/saucedemoLog.log" />
         <param name="append" value="true" />
         <param name="maxFileSize" value="10MB" />
         <param name="maxBackupIndex" value="10" />

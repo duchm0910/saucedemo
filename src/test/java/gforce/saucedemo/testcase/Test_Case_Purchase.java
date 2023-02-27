@@ -96,35 +96,10 @@ public class Test_Case_Purchase extends BaseTest {
 
 	}
 
-//	@Test(priority = 2)
-//	public void Add_Multiple_Items_To_Cart(){
-//
-//		log.info("CLick to second item "+secondItem);
-//		inventoryPage.clickAddToCart(secondItem);
-//
-//		String thirdItem = "Sauce Labs Bolt T-Shirt";
-//		log.info("CLick to third item "+thirdItem);
-//		inventoryPage.clickAddToCart(thirdItem);
-//
-//		log.info("Is quantity increase to 3");
-//		String cartQty= inventoryPage.getCartQty();
-//		verifyEquals(cartQty,"3");
-//
-//	}
-//
-//	@Test(priority = 3)
-//	public void Verify_Empty_Item_To_Cart(){
-//		log.info("Remove all selected item added to cart");
-//		inventoryPage.clickAddToCart(thirdItem);
-//		inventoryPage.clickAddToCart(secondItem);
-//		inventoryPage.clickAddToCart(firstItem);
-//
-//		log.info("Is Cart Quantity displayed");
-//		Boolean result = inventoryPage.isCartQtyDisplayed(driver);
-//		verifyTrue(result);
-//	}
-
-
+	@AfterTest
+	public void afterTest(){
+		driver.quit();
+	}
 
 
 }
