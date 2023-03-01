@@ -1,0 +1,1001 @@
+[INFO ] [2023-02-23 21:59:14,590] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 21:59:24,299] Send key to User Name field
+[INFO ] [2023-02-23 21:59:24,504] Send key to Password field
+[INFO ] [2023-02-23 21:59:24,651] Click to Login button
+[INFO ] [2023-02-23 21:59:24,803] Verify login success through home page title
+[INFO ] [2023-02-23 21:59:24,838]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-23 21:59:51,523] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 21:59:56,813] Send key to User Name field
+[INFO ] [2023-02-23 21:59:57,046] Send key to Password field
+[INFO ] [2023-02-23 21:59:57,196] Click to Login button
+[INFO ] [2023-02-23 21:59:57,342] Verify login success through home page title
+[INFO ] [2023-02-23 21:59:57,376]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:00:42,531] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 22:00:48,345] Send key to User Name field
+[INFO ] [2023-02-23 22:00:48,584] Send key to Password field
+[INFO ] [2023-02-23 22:00:48,733] Click to Login button
+[INFO ] [2023-02-23 22:00:48,895] Verify login success through home page title
+[INFO ] [2023-02-23 22:00:48,937]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:00:48,940] Close
+[INFO ] [2023-02-23 22:10:32,114] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 22:10:37,211] Send key to User Name field
+[INFO ] [2023-02-23 22:10:37,435] Send key to Password field
+[INFO ] [2023-02-23 22:10:37,586] Click to Login button
+[INFO ] [2023-02-23 22:10:37,733] Verify login success through home page title
+[INFO ] [2023-02-23 22:10:37,805]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:10:37,808] Send key to User Name field
+[INFO ] [2023-02-23 22:11:18,808] Close
+[INFO ] [2023-02-23 22:12:28,246] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 22:12:33,428] Send key to User Name field
+[INFO ] [2023-02-23 22:12:33,667] Send key to Password field
+[INFO ] [2023-02-23 22:12:33,859] Click to Login button
+[INFO ] [2023-02-23 22:12:33,980] Verify login success through home page title
+[INFO ] [2023-02-23 22:12:34,014]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:12:34,016] Send key to User Name field
+[INFO ] [2023-02-23 22:12:34,158] Send key to Password field
+[INFO ] [2023-02-23 22:12:34,308] Click to Login button
+[INFO ] [2023-02-23 22:12:34,452] Verify login success through home page title
+[INFO ] [2023-02-23 22:12:34,494]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:12:34,495] Close
+[INFO ] [2023-02-23 22:14:50,793] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 22:14:56,216] Send key to User Name field
+[INFO ] [2023-02-23 22:14:56,432] Send key to Password field
+[INFO ] [2023-02-23 22:14:56,595] Click to Login button
+[INFO ] [2023-02-23 22:14:56,702] Verify login success through home page title
+[INFO ] [2023-02-23 22:14:56,733]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:14:56,735] Send key to User Name field
+[INFO ] [2023-02-23 22:14:56,888] Send key to Password field
+[INFO ] [2023-02-23 22:14:57,029] Click to Login button
+[INFO ] [2023-02-23 22:14:57,159] Verify login success through home page title
+[INFO ] [2023-02-23 22:14:57,195]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:14:57,195] Close
+[INFO ] [2023-02-23 22:15:46,405] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 22:15:52,407] Send key to User Name field
+[INFO ] [2023-02-23 22:15:52,608] Send key to Password field
+[INFO ] [2023-02-23 22:15:52,761] Click to Login button
+[INFO ] [2023-02-23 22:15:52,868] Verify login success through home page title
+[INFO ] [2023-02-23 22:15:52,899]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-23 22:15:53,079] Send key to User Name field
+[INFO ] [2023-02-23 22:15:53,230] Send key to Password field
+[INFO ] [2023-02-23 22:15:53,364] Click to Login button
+[INFO ] [2023-02-23 22:15:53,477] Verify login success through home page title
+[INFO ] [2023-02-23 22:15:53,513]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:15:53,514] Close
+[INFO ] [2023-02-23 22:26:01,200] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 22:26:06,724] Send key to User Name field
+[INFO ] [2023-02-23 22:26:06,952] Send key to Password field
+[INFO ] [2023-02-23 22:26:07,089] Click to Login button
+[INFO ] [2023-02-23 22:26:07,195] Verify login success through home page title
+[INFO ] [2023-02-23 22:26:07,226]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:26:07,229] Send key to User Name field
+[INFO ] [2023-02-23 22:26:07,364] Send key to Password field
+[INFO ] [2023-02-23 22:26:07,507] Click to Login button
+[INFO ] [2023-02-23 22:26:07,579] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-23 22:26:07,602]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:26:07,602] Send key to User Name field
+[INFO ] [2023-02-23 22:26:07,746] Send key to Password field
+[INFO ] [2023-02-23 22:26:07,886] Click to Login button
+[INFO ] [2023-02-23 22:26:07,975] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-23 22:26:08,003]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:26:08,004] Send key to User Name field
+[INFO ] [2023-02-23 22:26:08,156] Send key to Password field
+[INFO ] [2023-02-23 22:26:08,303] Click to Login button
+[INFO ] [2023-02-23 22:26:08,451] Verify login success through home page title
+[INFO ] [2023-02-23 22:26:08,496]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:26:08,497] Close
+[INFO ] [2023-02-23 22:39:50,969] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 22:39:56,171] Login to System
+[INFO ] [2023-02-23 22:39:56,926]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:39:57,123]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 22:39:57,352]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-23 22:39:57,665] Close
+[INFO ] [2023-02-23 23:22:30,399] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-23 23:22:36,332] Login to System
+[INFO ] [2023-02-23 23:22:37,398]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 23:22:37,604]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-23 23:22:37,913]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-23 23:22:38,355] Close
+[INFO ] [2023-02-24 09:46:38,003] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 09:46:40,777] Login to System
+[INFO ] [2023-02-24 09:46:41,525]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 09:46:41,743]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 09:46:41,978]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-24 09:46:42,339] Close
+[INFO ] [2023-02-24 09:47:05,529] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 09:47:08,535] Login to System
+[INFO ] [2023-02-24 09:47:57,043]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 09:48:57,622] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 09:49:00,361] Login to System
+[INFO ] [2023-02-24 09:49:01,078]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 09:49:01,401]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 09:49:01,640]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-24 09:49:01,981] Close
+[INFO ] [2023-02-24 11:34:42,234] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 11:34:44,861] Login to System
+[INFO ] [2023-02-24 11:34:45,413] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 11:34:45,523] Is quantity increase to 1
+[INFO ] [2023-02-24 11:34:45,605]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 11:34:45,609] Close
+[INFO ] [2023-02-24 11:45:07,798] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 11:45:10,382] Login to System
+[INFO ] [2023-02-24 11:45:10,953] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 11:45:11,056] Is quantity increase to 1
+[INFO ] [2023-02-24 11:45:11,111]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 11:45:11,113] CLick to second item 
+[INFO ] [2023-02-24 11:45:11,209] CLick to third item 
+[INFO ] [2023-02-24 11:45:11,288] Is quantity increase to 3
+[INFO ] [2023-02-24 11:45:11,344]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-24 11:45:11,671] Close
+[INFO ] [2023-02-24 11:46:47,846] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 11:46:50,430] Login to System
+[INFO ] [2023-02-24 11:46:51,066] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 11:46:51,171] Is quantity increase to 1
+[INFO ] [2023-02-24 11:46:51,231]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 11:46:51,233] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 11:46:51,315] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 11:46:51,403] Is quantity increase to 3
+[INFO ] [2023-02-24 11:46:51,459]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-24 11:46:51,842] Close
+[INFO ] [2023-02-24 11:48:43,923] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 11:48:46,570] Login to System
+[INFO ] [2023-02-24 11:48:47,125] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 11:48:47,233] Is quantity increase to 1
+[INFO ] [2023-02-24 11:48:47,299]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 11:48:47,301] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 11:48:47,397] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 11:48:49,490] Is quantity increase to 3
+[INFO ] [2023-02-24 11:48:49,560]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-24 11:48:49,924] Close
+[INFO ] [2023-02-24 11:50:00,793] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 11:50:03,412] Login to System
+[INFO ] [2023-02-24 11:50:04,048] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 11:50:04,144] Is quantity increase to 1
+[INFO ] [2023-02-24 11:50:04,240]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 11:50:04,243] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 11:50:04,333] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 11:50:06,420] Is quantity increase to 3
+[INFO ] [2023-02-24 11:50:06,478]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 11:50:06,479] Close
+[INFO ] [2023-02-24 12:01:04,056] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 12:01:06,795] Login to System
+[INFO ] [2023-02-24 12:01:07,367] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 12:01:07,563] Is quantity increase to 1
+[INFO ] [2023-02-24 12:01:07,619]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:01:07,620] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 12:01:07,710] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 12:01:09,798] Is quantity increase to 3
+[INFO ] [2023-02-24 12:01:09,859]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:01:09,859] Remove all selected item added to cart
+[INFO ] [2023-02-24 12:01:10,122] Is Cart Quantity displayed
+[INFO ] [2023-02-24 12:01:30,174] Close
+[INFO ] [2023-02-24 12:03:22,216] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 12:03:24,801] Login to System
+[INFO ] [2023-02-24 12:03:25,401] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 12:03:25,482] Is quantity increase to 1
+[INFO ] [2023-02-24 12:03:25,571]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:03:25,573] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 12:03:25,673] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 12:03:27,789] Is quantity increase to 3
+[INFO ] [2023-02-24 12:03:27,848]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:03:27,849] Remove all selected item added to cart
+[INFO ] [2023-02-24 12:03:28,083] Is Cart Quantity displayed
+[INFO ] [2023-02-24 12:03:48,094]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:03:48,095] Close
+[INFO ] [2023-02-24 12:07:52,922] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 12:07:55,444] Login to System
+[INFO ] [2023-02-24 12:07:56,028] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 12:07:56,139] Is quantity increase to 1
+[INFO ] [2023-02-24 12:07:56,200]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:07:56,202] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 12:07:56,297] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 12:07:56,375] Is quantity increase to 3
+[INFO ] [2023-02-24 12:07:56,422]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:07:56,422] Remove all selected item added to cart
+[INFO ] [2023-02-24 12:07:56,652] Is Cart Quantity displayed
+[INFO ] [2023-02-24 12:08:16,705]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:08:16,706] Close
+[INFO ] [2023-02-24 12:10:50,718] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 12:10:53,244] Login to System
+[INFO ] [2023-02-24 12:10:53,785] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 12:10:53,885] Is quantity increase to 1
+[INFO ] [2023-02-24 12:10:53,943]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:10:53,946] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 12:10:54,026] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 12:10:54,106] Is quantity increase to 3
+[INFO ] [2023-02-24 12:10:54,152]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:10:54,153] Remove all selected item added to cart
+[INFO ] [2023-02-24 12:10:54,382] Is Cart Quantity displayed
+[INFO ] [2023-02-24 12:11:14,417]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 12:11:14,418] Close
+[INFO ] [2023-02-24 13:47:45,500] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 13:47:48,079] Login to System
+[INFO ] [2023-02-24 13:47:48,632] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 13:47:48,744]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 13:47:48,835] Is Your Card page displayed
+[INFO ] [2023-02-24 13:47:48,912]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:47:48,912] Check selected item is displayed in cart
+[INFO ] [2023-02-24 13:47:48,979]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:47:48,979] Step 3: Click Checkout button
+[INFO ] [2023-02-24 13:48:09,203] Close
+[INFO ] [2023-02-24 13:48:52,906] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 13:48:55,524] Login to System
+[INFO ] [2023-02-24 13:48:56,106] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 13:48:56,225]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 13:48:56,310] Is Your Card page displayed
+[INFO ] [2023-02-24 13:48:56,369]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:48:56,370] Check selected item is displayed in cart
+[INFO ] [2023-02-24 13:48:56,460]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:48:56,460] Step 3: Click Checkout button
+[INFO ] [2023-02-24 13:48:56,608] Close
+[INFO ] [2023-02-24 13:49:59,534] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 13:50:02,400] Login to System
+[INFO ] [2023-02-24 13:50:02,998] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 13:50:03,110]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 13:50:03,219] Is Your Card page displayed
+[INFO ] [2023-02-24 13:50:03,277]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:50:03,277] Check selected item is displayed in cart
+[INFO ] [2023-02-24 13:50:03,337]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:50:03,337] Step 3: Click Checkout button
+[INFO ] [2023-02-24 13:51:38,199] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 13:51:40,885] Login to System
+[INFO ] [2023-02-24 13:51:41,508] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 13:51:41,693]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 13:51:41,796] Is Your Card page displayed
+[INFO ] [2023-02-24 13:51:41,858]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:51:41,858] Check selected item is displayed in cart
+[INFO ] [2023-02-24 13:51:41,932]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:51:41,932] Step 3: Click Checkout button
+[INFO ] [2023-02-24 13:51:42,101] Close
+[INFO ] [2023-02-24 13:58:38,869] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 13:58:41,401] Login to System
+[INFO ] [2023-02-24 13:58:41,974] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 13:58:42,075]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 13:58:42,170] Is Your Card page displayed
+[INFO ] [2023-02-24 13:58:42,238]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:58:42,238] Check selected item is displayed in cart
+[INFO ] [2023-02-24 13:58:42,294]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:58:42,294] Step 3: Click Checkout button
+[INFO ] [2023-02-24 13:58:42,452] Close
+[INFO ] [2023-02-24 13:59:01,881] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 13:59:04,538] Login to System
+[INFO ] [2023-02-24 13:59:05,141] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 13:59:05,268]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 13:59:05,385] Is Your Card page displayed
+[INFO ] [2023-02-24 13:59:05,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:59:05,456] Check selected item is displayed in cart
+[INFO ] [2023-02-24 13:59:05,515]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 13:59:05,517] Step 3: Click Checkout button
+[INFO ] [2023-02-24 13:59:05,685] Close
+[INFO ] [2023-02-24 14:04:00,396] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:04:02,978] Login to System
+[INFO ] [2023-02-24 14:04:03,557] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:04:03,745]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 14:04:03,858] Is Your Card page displayed
+[INFO ] [2023-02-24 14:04:03,917]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:04:03,917] Check selected item is displayed in cart
+[INFO ] [2023-02-24 14:04:03,978]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:04:03,979] Step 3: Click Checkout button
+[INFO ] [2023-02-24 14:04:04,193] Close
+[INFO ] [2023-02-24 14:04:35,437] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:04:38,016] Login to System
+[INFO ] [2023-02-24 14:04:38,600] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:04:38,802]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 14:04:38,899] Is Your Card page displayed
+[INFO ] [2023-02-24 14:04:38,963]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:04:38,963] Check selected item is displayed in cart
+[INFO ] [2023-02-24 14:04:39,023]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:04:39,023] Step 3: Click Checkout button
+[INFO ] [2023-02-24 14:04:39,138] Is checkout step 1 displayed
+[INFO ] [2023-02-24 14:04:39,189]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:04:39,189] Step 4: Input check out information
+[INFO ] [2023-02-24 14:04:39,633] Step 5: Click Continue button
+[INFO ] [2023-02-24 14:04:39,742] Is checkout step 2 displayed
+[INFO ] [2023-02-24 14:04:39,794]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:04:39,794] Step 6: Click Finish button
+[INFO ] [2023-02-24 14:04:39,903] Is checkout Complete page displayed
+[INFO ] [2023-02-24 14:04:39,963]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-24 14:04:40,130] Close
+[INFO ] [2023-02-24 14:05:12,109] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:05:14,727] Login to System
+[INFO ] [2023-02-24 14:05:15,269] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:05:15,375]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 14:05:15,469] Is Your Card page displayed
+[INFO ] [2023-02-24 14:05:15,531]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:05:15,531] Check selected item is displayed in cart
+[INFO ] [2023-02-24 14:05:15,589]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:05:15,589] Step 3: Click Checkout button
+[INFO ] [2023-02-24 14:05:15,705] Is checkout step 1 displayed
+[INFO ] [2023-02-24 14:05:15,757]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:05:15,757] Step 4: Input check out information
+[INFO ] [2023-02-24 14:05:16,201] Step 5: Click Continue button
+[INFO ] [2023-02-24 14:05:16,310] Is checkout step 2 displayed
+[INFO ] [2023-02-24 14:05:16,361]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:05:16,361] Step 6: Click Finish button
+[INFO ] [2023-02-24 14:05:16,471] Is checkout Complete page displayed
+[INFO ] [2023-02-24 14:05:16,535]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:05:16,536] Close
+[INFO ] [2023-02-24 14:06:08,604] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:06:11,368] Send key to User Name field
+[INFO ] [2023-02-24 14:06:11,608] Send key to Password field
+[INFO ] [2023-02-24 14:06:11,746] Click to Login button
+[INFO ] [2023-02-24 14:06:11,854] Verify login success through home page title
+[INFO ] [2023-02-24 14:06:11,890]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:06:11,892] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:06:13,616] Login to System
+[INFO ] [2023-02-24 14:06:14,141] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:06:34,490] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:06:36,168] Login to System
+[INFO ] [2023-02-24 14:06:36,652] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:06:56,982] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:06:58,950] Login to System
+[INFO ] [2023-02-24 14:06:59,393] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:07:19,703] Close
+[INFO ] [2023-02-24 14:12:23,987] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:12:26,579] Send key to User Name field
+[INFO ] [2023-02-24 14:12:26,791] Send key to Password field
+[INFO ] [2023-02-24 14:12:26,959] Click to Login button
+[INFO ] [2023-02-24 14:12:27,049] Verify login success through home page title
+[INFO ] [2023-02-24 14:12:27,078]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:12:27,081] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:12:28,770] Login to System
+[INFO ] [2023-02-24 14:12:29,340] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:12:35,259] Close
+[INFO ] [2023-02-24 14:14:17,005] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:14:20,102] Send key to User Name field
+[INFO ] [2023-02-24 14:14:20,306] Send key to Password field
+[INFO ] [2023-02-24 14:14:20,446] Click to Login button
+[INFO ] [2023-02-24 14:14:20,566] Verify login success through home page title
+[INFO ] [2023-02-24 14:14:20,598]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:14:20,600] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:14:22,334] Login to System
+[INFO ] [2023-02-24 14:14:22,895] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:14:43,276] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:14:45,305] Login to System
+[INFO ] [2023-02-24 14:14:45,889] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:18:10,697] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:18:13,446] Login to System
+[INFO ] [2023-02-24 14:18:14,089] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:18:15,835] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:18:17,571] Login to System
+[INFO ] [2023-02-24 14:18:18,163] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:18:19,932] Login to System
+[INFO ] [2023-02-24 14:18:20,517] Send key to User Name field
+[INFO ] [2023-02-24 14:18:20,727] Send key to Password field
+[INFO ] [2023-02-24 14:18:20,924] Click to Login button
+[INFO ] [2023-02-24 14:18:21,055] Verify login success through home page title
+[INFO ] [2023-02-24 14:18:21,095]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:18:21,097] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:18:21,296]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:18:21,296] Select sort from drop down with Name (Z to A)
+[INFO ] [2023-02-24 14:18:21,491]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:18:21,492] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:18:21,596] Is quantity increase to 1
+[INFO ] [2023-02-24 14:18:21,668]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:18:21,668] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:18:21,749]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 14:18:21,834] Is Your Card page displayed
+[INFO ] [2023-02-24 14:18:21,899]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:18:21,899] Check selected item is displayed in cart
+[INFO ] [2023-02-24 14:18:29,490] Close
+[INFO ] [2023-02-24 14:18:32,191] Close
+[INFO ] [2023-02-24 14:18:34,835] Close
+[INFO ] [2023-02-24 14:18:37,530] Close
+[INFO ] [2023-02-24 14:19:49,861] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:19:52,430] Login to System
+[INFO ] [2023-02-24 14:19:53,020] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:19:53,125]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 14:19:53,224] Is Your Card page displayed
+[INFO ] [2023-02-24 14:19:53,293]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:19:53,293] Check selected item is displayed in cart
+[INFO ] [2023-02-24 14:19:53,380]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:19:53,380] Step 3: Click Checkout button
+[INFO ] [2023-02-24 14:19:53,480] Is checkout step 1 displayed
+[INFO ] [2023-02-24 14:19:53,542]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:19:53,542] Step 4: Input check out information
+[INFO ] [2023-02-24 14:19:53,974] Step 5: Click Continue button
+[INFO ] [2023-02-24 14:19:54,082] Is checkout step 2 displayed
+[INFO ] [2023-02-24 14:19:54,133]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:19:54,133] Step 6: Click Finish button
+[INFO ] [2023-02-24 14:19:54,240] Is checkout Complete page displayed
+[INFO ] [2023-02-24 14:19:54,304]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:19:54,307] Close
+[INFO ] [2023-02-24 14:21:36,428] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:21:38,966] Send key to User Name field
+[INFO ] [2023-02-24 14:21:39,180] Send key to Password field
+[INFO ] [2023-02-24 14:21:39,316] Click to Login button
+[INFO ] [2023-02-24 14:21:39,427] Verify login success through home page title
+[INFO ] [2023-02-24 14:21:39,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:21:39,458] Send key to User Name field
+[INFO ] [2023-02-24 14:21:39,597] Send key to Password field
+[INFO ] [2023-02-24 14:21:39,739] Click to Login button
+[INFO ] [2023-02-24 14:21:39,829] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:21:39,854]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:21:39,855] Send key to User Name field
+[INFO ] [2023-02-24 14:21:39,990] Send key to Password field
+[INFO ] [2023-02-24 14:21:40,119] Click to Login button
+[INFO ] [2023-02-24 14:21:40,199] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:21:40,230]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:21:40,231] Send key to User Name field
+[INFO ] [2023-02-24 14:21:40,375] Send key to Password field
+[INFO ] [2023-02-24 14:21:40,516] Click to Login button
+[INFO ] [2023-02-24 14:21:40,649] Verify login success through home page title
+[INFO ] [2023-02-24 14:21:40,684]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:21:40,684] Close
+[INFO ] [2023-02-24 14:23:39,495] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:23:42,030] Send key to User Name field
+[INFO ] [2023-02-24 14:23:42,246] Send key to Password field
+[INFO ] [2023-02-24 14:23:42,422] Click to Login button
+[INFO ] [2023-02-24 14:23:42,538] Verify login success through home page title
+[INFO ] [2023-02-24 14:23:42,569]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:23:42,571] Send key to User Name field
+[INFO ] [2023-02-24 14:23:42,705] Send key to Password field
+[INFO ] [2023-02-24 14:23:42,849] Click to Login button
+[INFO ] [2023-02-24 14:23:42,921] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:23:42,947]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:23:42,947] Send key to User Name field
+[INFO ] [2023-02-24 14:23:43,096] Send key to Password field
+[INFO ] [2023-02-24 14:23:43,227] Click to Login button
+[INFO ] [2023-02-24 14:23:43,307] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:23:43,332]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:23:43,333] Send key to User Name field
+[INFO ] [2023-02-24 14:23:43,486] Send key to Password field
+[INFO ] [2023-02-24 14:23:43,626] Click to Login button
+[INFO ] [2023-02-24 14:23:43,760] Verify login success through home page title
+[INFO ] [2023-02-24 14:23:43,796]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:23:43,797] Close
+[INFO ] [2023-02-24 14:23:58,590] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:24:01,194] Login to System
+[INFO ] [2023-02-24 14:24:01,745] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:24:03,452] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:24:05,284] Login to System
+[INFO ] [2023-02-24 14:24:05,919] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:24:07,808] Login to System
+[INFO ] [2023-02-24 14:24:08,472] Send key to User Name field
+[INFO ] [2023-02-24 14:24:08,722] Send key to Password field
+[INFO ] [2023-02-24 14:24:08,912] Click to Login button
+[INFO ] [2023-02-24 14:24:09,041] Verify login success through home page title
+[INFO ] [2023-02-24 14:24:09,087]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:24:09,090] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:24:09,304]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:24:09,304] Select sort from drop down with Name (Z to A)
+[INFO ] [2023-02-24 14:24:09,513]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:24:09,514] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:24:09,606] Is quantity increase to 1
+[INFO ] [2023-02-24 14:24:09,671]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:24:09,672] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:24:09,762]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 14:24:09,880] Is Your Card page displayed
+[INFO ] [2023-02-24 14:24:09,960]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:24:09,960] Check selected item is displayed in cart
+[INFO ] [2023-02-24 14:24:17,535] Close
+[INFO ] [2023-02-24 14:24:20,213] Close
+[INFO ] [2023-02-24 14:24:22,847] Close
+[INFO ] [2023-02-24 14:24:25,501] Close
+[INFO ] [2023-02-24 14:27:17,826] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:27:20,661] Send key to User Name field
+[INFO ] [2023-02-24 14:27:20,882] Send key to Password field
+[INFO ] [2023-02-24 14:27:21,015] Click to Login button
+[INFO ] [2023-02-24 14:27:21,127] Verify login success through home page title
+[INFO ] [2023-02-24 14:27:21,157]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:27:21,159] Send key to User Name field
+[INFO ] [2023-02-24 14:27:21,301] Send key to Password field
+[INFO ] [2023-02-24 14:27:21,441] Click to Login button
+[INFO ] [2023-02-24 14:27:21,514] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:27:21,545]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:27:21,546] Send key to User Name field
+[INFO ] [2023-02-24 14:27:21,689] Send key to Password field
+[INFO ] [2023-02-24 14:27:21,824] Click to Login button
+[INFO ] [2023-02-24 14:27:21,903] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:27:21,928]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:27:21,929] Send key to User Name field
+[INFO ] [2023-02-24 14:27:22,068] Send key to Password field
+[INFO ] [2023-02-24 14:27:22,208] Click to Login button
+[INFO ] [2023-02-24 14:27:22,343] Verify login success through home page title
+[INFO ] [2023-02-24 14:27:22,376]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:27:22,376] Close
+[INFO ] [2023-02-24 14:27:25,043] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:27:26,780] Login to System
+[INFO ] [2023-02-24 14:27:27,235] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:27:28,057] Close
+[INFO ] [2023-02-24 14:27:55,663] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:27:58,255] Send key to User Name field
+[INFO ] [2023-02-24 14:27:58,471] Send key to Password field
+[INFO ] [2023-02-24 14:27:58,650] Click to Login button
+[INFO ] [2023-02-24 14:27:58,758] Verify login success through home page title
+[INFO ] [2023-02-24 14:27:58,792]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:27:58,793] Send key to User Name field
+[INFO ] [2023-02-24 14:27:58,926] Send key to Password field
+[INFO ] [2023-02-24 14:27:59,071] Click to Login button
+[INFO ] [2023-02-24 14:27:59,147] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:27:59,171]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:27:59,172] Send key to User Name field
+[INFO ] [2023-02-24 14:27:59,321] Send key to Password field
+[INFO ] [2023-02-24 14:27:59,467] Click to Login button
+[INFO ] [2023-02-24 14:27:59,553] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:27:59,576]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:27:59,576] Send key to User Name field
+[INFO ] [2023-02-24 14:27:59,730] Send key to Password field
+[INFO ] [2023-02-24 14:27:59,870] Click to Login button
+[INFO ] [2023-02-24 14:28:00,027] Verify login success through home page title
+[INFO ] [2023-02-24 14:28:00,059]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:28:00,059] Close
+[INFO ] [2023-02-24 14:28:02,723] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:28:04,413] Login to System
+[INFO ] [2023-02-24 14:28:04,911] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:28:05,462] Close
+[INFO ] [2023-02-24 14:29:08,055] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:29:10,728] Send key to User Name field
+[INFO ] [2023-02-24 14:29:10,999] Send key to Password field
+[INFO ] [2023-02-24 14:29:11,163] Click to Login button
+[INFO ] [2023-02-24 14:29:11,271] Verify login success through home page title
+[INFO ] [2023-02-24 14:29:11,299]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:29:11,301] Send key to User Name field
+[INFO ] [2023-02-24 14:29:11,436] Send key to Password field
+[INFO ] [2023-02-24 14:29:11,587] Click to Login button
+[INFO ] [2023-02-24 14:29:11,669] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:29:11,695]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:29:11,695] Send key to User Name field
+[INFO ] [2023-02-24 14:29:11,848] Send key to Password field
+[INFO ] [2023-02-24 14:29:11,983] Click to Login button
+[INFO ] [2023-02-24 14:29:12,060] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:29:12,089]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:29:12,090] Send key to User Name field
+[INFO ] [2023-02-24 14:29:12,240] Send key to Password field
+[INFO ] [2023-02-24 14:29:12,380] Click to Login button
+[INFO ] [2023-02-24 14:29:12,515] Verify login success through home page title
+[INFO ] [2023-02-24 14:29:12,551]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:29:12,552] Close
+[INFO ] [2023-02-24 14:29:15,230] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:29:16,915] Login to System
+[INFO ] [2023-02-24 14:29:17,398] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:29:17,924] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 14:29:18,215] Remove all selected item added to cart
+[INFO ] [2023-02-24 14:29:18,520] Close
+[INFO ] [2023-02-24 14:32:30,793] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:32:33,486] Send key to User Name field
+[INFO ] [2023-02-24 14:32:33,709] Send key to Password field
+[INFO ] [2023-02-24 14:32:33,843] Click to Login button
+[INFO ] [2023-02-24 14:32:33,953] Verify login success through home page title
+[INFO ] [2023-02-24 14:32:33,980]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:32:33,981] Send key to User Name field
+[INFO ] [2023-02-24 14:32:34,125] Send key to Password field
+[INFO ] [2023-02-24 14:32:34,264] Click to Login button
+[INFO ] [2023-02-24 14:32:34,340] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:32:34,373]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:32:34,373] Send key to User Name field
+[INFO ] [2023-02-24 14:32:34,515] Send key to Password field
+[INFO ] [2023-02-24 14:32:34,649] Click to Login button
+[INFO ] [2023-02-24 14:32:34,727] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:32:34,751]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:32:34,753] Send key to User Name field
+[INFO ] [2023-02-24 14:32:34,913] Send key to Password field
+[INFO ] [2023-02-24 14:32:35,054] Click to Login button
+[INFO ] [2023-02-24 14:32:35,195] Verify login success through home page title
+[INFO ] [2023-02-24 14:32:35,226]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:32:35,227] Close
+[INFO ] [2023-02-24 14:32:37,892] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:32:39,608] Login to System
+[INFO ] [2023-02-24 14:32:40,137] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:32:40,685] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 14:32:40,980] Remove all selected item added to cart
+[INFO ] [2023-02-24 14:32:41,291] Close
+[INFO ] [2023-02-24 14:35:43,872] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:35:46,518] Send key to User Name field
+[INFO ] [2023-02-24 14:35:46,756] Send key to Password field
+[INFO ] [2023-02-24 14:35:46,927] Click to Login button
+[INFO ] [2023-02-24 14:35:47,038] Verify login success through home page title
+[INFO ] [2023-02-24 14:35:47,066]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:35:47,068] Send key to User Name field
+[INFO ] [2023-02-24 14:35:47,202] Send key to Password field
+[INFO ] [2023-02-24 14:35:47,349] Click to Login button
+[INFO ] [2023-02-24 14:35:47,421] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:35:47,445]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:35:47,446] Send key to User Name field
+[INFO ] [2023-02-24 14:35:47,581] Send key to Password field
+[INFO ] [2023-02-24 14:35:47,715] Click to Login button
+[INFO ] [2023-02-24 14:35:47,820] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:35:47,847]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:35:47,847] Send key to User Name field
+[INFO ] [2023-02-24 14:35:47,983] Send key to Password field
+[INFO ] [2023-02-24 14:35:48,121] Click to Login button
+[INFO ] [2023-02-24 14:35:48,251] Verify login success through home page title
+[INFO ] [2023-02-24 14:35:48,280]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:35:48,281] Close
+[INFO ] [2023-02-24 14:35:50,386] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:35:52,088] Login to System
+[INFO ] [2023-02-24 14:35:52,548] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:35:53,066] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 14:35:53,405] Remove all selected item added to cart
+[INFO ] [2023-02-24 14:35:53,720] Close
+[INFO ] [2023-02-24 14:37:01,452] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:37:04,063] Send key to User Name field
+[INFO ] [2023-02-24 14:37:04,301] Send key to Password field
+[INFO ] [2023-02-24 14:37:04,471] Click to Login button
+[INFO ] [2023-02-24 14:37:04,591] Verify login success through home page title
+[INFO ] [2023-02-24 14:37:04,617]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:37:04,619] Send key to User Name field
+[INFO ] [2023-02-24 14:37:04,759] Send key to Password field
+[INFO ] [2023-02-24 14:37:04,906] Click to Login button
+[INFO ] [2023-02-24 14:37:04,978] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:37:05,000]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:37:05,001] Send key to User Name field
+[INFO ] [2023-02-24 14:37:05,142] Send key to Password field
+[INFO ] [2023-02-24 14:37:05,275] Click to Login button
+[INFO ] [2023-02-24 14:37:05,354] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:37:05,378]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:37:05,379] Send key to User Name field
+[INFO ] [2023-02-24 14:37:05,531] Send key to Password field
+[INFO ] [2023-02-24 14:37:05,673] Click to Login button
+[INFO ] [2023-02-24 14:37:05,815] Verify login success through home page title
+[INFO ] [2023-02-24 14:37:05,854]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:37:05,855] Close
+[INFO ] [2023-02-24 14:37:07,997] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:37:09,712] Login to System
+[INFO ] [2023-02-24 14:37:10,218] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:37:10,765] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 14:37:11,071] Remove all selected item added to cart
+[INFO ] [2023-02-24 14:37:11,379] Close
+[INFO ] [2023-02-24 14:37:38,329] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:37:41,174] Send key to User Name field
+[INFO ] [2023-02-24 14:37:41,393] Send key to Password field
+[INFO ] [2023-02-24 14:37:41,529] Click to Login button
+[INFO ] [2023-02-24 14:37:41,634] Verify login success through home page title
+[INFO ] [2023-02-24 14:37:41,663]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:37:41,665] Send key to User Name field
+[INFO ] [2023-02-24 14:37:41,803] Send key to Password field
+[INFO ] [2023-02-24 14:37:41,945] Click to Login button
+[INFO ] [2023-02-24 14:37:42,020] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:37:42,047]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:37:42,047] Send key to User Name field
+[INFO ] [2023-02-24 14:37:42,200] Send key to Password field
+[INFO ] [2023-02-24 14:37:42,345] Click to Login button
+[INFO ] [2023-02-24 14:37:42,433] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:37:42,464]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:37:42,465] Send key to User Name field
+[INFO ] [2023-02-24 14:37:42,617] Send key to Password field
+[INFO ] [2023-02-24 14:37:42,756] Click to Login button
+[INFO ] [2023-02-24 14:37:42,892] Verify login success through home page title
+[INFO ] [2023-02-24 14:37:42,925]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:37:43,041] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:37:44,758] Login to System
+[INFO ] [2023-02-24 14:37:45,225] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:37:45,752] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 14:37:46,066] Remove all selected item added to cart
+[INFO ] [2023-02-24 14:37:46,381] Close
+[INFO ] [2023-02-24 14:38:01,719] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:38:04,375] Send key to User Name field
+[INFO ] [2023-02-24 14:38:04,623] Send key to Password field
+[INFO ] [2023-02-24 14:38:04,761] Click to Login button
+[INFO ] [2023-02-24 14:38:04,866] Verify login success through home page title
+[INFO ] [2023-02-24 14:38:04,898]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:38:04,900] Send key to User Name field
+[INFO ] [2023-02-24 14:38:05,032] Send key to Password field
+[INFO ] [2023-02-24 14:38:05,180] Click to Login button
+[INFO ] [2023-02-24 14:38:05,252] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:38:05,275]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:38:05,276] Send key to User Name field
+[INFO ] [2023-02-24 14:38:05,436] Send key to Password field
+[INFO ] [2023-02-24 14:38:05,581] Click to Login button
+[INFO ] [2023-02-24 14:38:05,659] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:38:05,683]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:38:05,684] Send key to User Name field
+[INFO ] [2023-02-24 14:38:05,821] Send key to Password field
+[INFO ] [2023-02-24 14:38:05,961] Click to Login button
+[INFO ] [2023-02-24 14:38:06,092] Verify login success through home page title
+[INFO ] [2023-02-24 14:38:06,130]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:38:06,132] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:38:07,888] Login to System
+[INFO ] [2023-02-24 14:38:08,512] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:38:08,654] Is quantity increase to 1
+[INFO ] [2023-02-24 14:38:08,745]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:38:08,746] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 14:38:08,863] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 14:38:08,942] Is quantity increase to 3
+[INFO ] [2023-02-24 14:38:08,991]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:38:08,991] Remove all selected item added to cart
+[INFO ] [2023-02-24 14:38:09,238] Is Cart Quantity displayed
+[INFO ] [2023-02-24 14:38:11,248]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:38:11,249] Close
+[INFO ] [2023-02-24 14:39:58,947] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:40:01,524] Send key to User Name field
+[INFO ] [2023-02-24 14:40:01,766] Send key to Password field
+[INFO ] [2023-02-24 14:40:01,907] Click to Login button
+[INFO ] [2023-02-24 14:40:02,029] Verify login success through home page title
+[INFO ] [2023-02-24 14:40:02,057]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:40:02,059] Send key to User Name field
+[INFO ] [2023-02-24 14:40:02,196] Send key to Password field
+[INFO ] [2023-02-24 14:40:02,343] Click to Login button
+[INFO ] [2023-02-24 14:40:02,427] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:40:02,452]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:40:02,452] Send key to User Name field
+[INFO ] [2023-02-24 14:40:02,587] Send key to Password field
+[INFO ] [2023-02-24 14:40:02,723] Click to Login button
+[INFO ] [2023-02-24 14:40:02,817] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:40:02,841]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:40:02,841] Send key to User Name field
+[INFO ] [2023-02-24 14:40:02,978] Send key to Password field
+[INFO ] [2023-02-24 14:40:03,118] Click to Login button
+[INFO ] [2023-02-24 14:40:03,248] Verify login success through home page title
+[INFO ] [2023-02-24 14:40:03,293]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:40:03,295] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:40:05,027] Login to System
+[INFO ] [2023-02-24 14:40:05,566] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:40:05,688] Is quantity increase to 1
+[INFO ] [2023-02-24 14:40:05,769]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:40:05,770] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 14:40:05,855] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 14:40:05,954] Is quantity increase to 3
+[INFO ] [2023-02-24 14:40:06,004]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:40:06,004] Remove all selected item added to cart
+[INFO ] [2023-02-24 14:40:06,254] Is Cart Quantity displayed
+[INFO ] [2023-02-24 14:40:08,319]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:40:08,320] Close
+[INFO ] [2023-02-24 14:42:40,252] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:42:42,831] Send key to User Name field
+[INFO ] [2023-02-24 14:42:43,046] Send key to Password field
+[INFO ] [2023-02-24 14:42:43,193] Click to Login button
+[INFO ] [2023-02-24 14:42:43,300] Verify login success through home page title
+[INFO ] [2023-02-24 14:42:43,330]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:43,332] Send key to User Name field
+[INFO ] [2023-02-24 14:42:43,465] Send key to Password field
+[INFO ] [2023-02-24 14:42:43,609] Click to Login button
+[INFO ] [2023-02-24 14:42:43,685] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:42:43,709]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:43,710] Send key to User Name field
+[INFO ] [2023-02-24 14:42:43,859] Send key to Password field
+[INFO ] [2023-02-24 14:42:44,007] Click to Login button
+[INFO ] [2023-02-24 14:42:44,090] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:42:44,114]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:44,115] Send key to User Name field
+[INFO ] [2023-02-24 14:42:44,264] Send key to Password field
+[INFO ] [2023-02-24 14:42:44,403] Click to Login button
+[INFO ] [2023-02-24 14:42:44,536] Verify login success through home page title
+[INFO ] [2023-02-24 14:42:44,571]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:44,572] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:42:46,284] Login to System
+[INFO ] [2023-02-24 14:42:46,822] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:42:47,048]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:47,048] Select sort from drop down with Name (Z to A)
+[INFO ] [2023-02-24 14:42:47,219]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:47,219] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:42:48,937] Login to System
+[INFO ] [2023-02-24 14:42:49,453] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:42:49,548] Is quantity increase to 1
+[INFO ] [2023-02-24 14:42:49,628]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:49,629] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 14:42:49,708] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 14:42:49,788] Is quantity increase to 3
+[INFO ] [2023-02-24 14:42:49,832]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:49,833] Remove all selected item added to cart
+[INFO ] [2023-02-24 14:42:50,065] Is Cart Quantity displayed
+[INFO ] [2023-02-24 14:42:52,133]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:52,134] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:42:53,914] Login to System
+[INFO ] [2023-02-24 14:42:54,430] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:42:54,544]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 14:42:54,662] Is Your Card page displayed
+[INFO ] [2023-02-24 14:42:54,712]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:54,712] Check selected item is displayed in cart
+[INFO ] [2023-02-24 14:42:54,783]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:54,783] Step 3: Click Checkout button
+[INFO ] [2023-02-24 14:42:54,884] Is checkout step 1 displayed
+[INFO ] [2023-02-24 14:42:54,945]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:42:54,945] Step 4: Input check out information
+[INFO ] [2023-02-24 14:43:02,535] Close
+[INFO ] [2023-02-24 14:45:12,543] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:45:15,729] Send key to User Name field
+[INFO ] [2023-02-24 14:45:15,954] Send key to Password field
+[INFO ] [2023-02-24 14:45:16,107] Click to Login button
+[INFO ] [2023-02-24 14:45:16,230] Verify login success through home page title
+[INFO ] [2023-02-24 14:45:16,257]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:16,259] Send key to User Name field
+[INFO ] [2023-02-24 14:45:16,408] Send key to Password field
+[INFO ] [2023-02-24 14:45:16,560] Click to Login button
+[INFO ] [2023-02-24 14:45:16,640] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-24 14:45:16,665]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:16,665] Send key to User Name field
+[INFO ] [2023-02-24 14:45:16,819] Send key to Password field
+[INFO ] [2023-02-24 14:45:16,948] Click to Login button
+[INFO ] [2023-02-24 14:45:17,029] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-24 14:45:17,059]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:17,060] Send key to User Name field
+[INFO ] [2023-02-24 14:45:17,203] Send key to Password field
+[INFO ] [2023-02-24 14:45:17,353] Click to Login button
+[INFO ] [2023-02-24 14:45:17,485] Verify login success through home page title
+[INFO ] [2023-02-24 14:45:17,514]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:17,516] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:45:19,760] Login to System
+[INFO ] [2023-02-24 14:45:20,280] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:45:20,496]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:20,496] Select sort from drop down with Name (Z to A)
+[INFO ] [2023-02-24 14:45:20,676]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:20,677] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:45:22,332] Login to System
+[INFO ] [2023-02-24 14:45:22,827] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:45:23,005] Is quantity increase to 1
+[INFO ] [2023-02-24 14:45:23,092]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:23,093] CLick to second item Sauce Labs Bike Light
+[INFO ] [2023-02-24 14:45:23,183] CLick to third item Sauce Labs Bolt T-Shirt
+[INFO ] [2023-02-24 14:45:23,293] Is quantity increase to 3
+[INFO ] [2023-02-24 14:45:23,352]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:23,352] Remove all selected item added to cart
+[INFO ] [2023-02-24 14:45:23,610] Is Cart Quantity displayed
+[INFO ] [2023-02-24 14:45:33,643]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:33,644] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:45:35,527] Login to System
+[INFO ] [2023-02-24 14:45:36,236] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:45:36,338]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 14:45:36,468] Is Your Card page displayed
+[INFO ] [2023-02-24 14:45:36,543]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:36,543] Check selected item is displayed in cart
+[INFO ] [2023-02-24 14:45:36,606]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:36,606] Step 3: Click Checkout button
+[INFO ] [2023-02-24 14:45:36,693] Is checkout step 1 displayed
+[INFO ] [2023-02-24 14:45:36,756]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:45:36,756] Step 4: Input check out information
+[INFO ] [2023-02-24 14:45:47,118] Close
+[INFO ] [2023-02-24 14:47:34,979] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:47:37,572] Login to System
+[INFO ] [2023-02-24 14:47:38,270] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:47:39,878] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:47:41,860] Login to System
+[INFO ] [2023-02-24 14:47:42,430] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-24 14:47:44,309] Login to System
+[INFO ] [2023-02-24 14:47:44,888] Send key to User Name field
+[INFO ] [2023-02-24 14:47:45,128] Send key to Password field
+[INFO ] [2023-02-24 14:47:45,346] Click to Login button
+[INFO ] [2023-02-24 14:47:45,489] Verify login success through home page title
+[INFO ] [2023-02-24 14:47:45,527]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:47:45,530] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-24 14:47:45,753]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:47:45,753] Select sort from drop down with Name (Z to A)
+[INFO ] [2023-02-24 14:47:45,951]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:47:45,952] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-24 14:47:46,059] Is quantity increase to 1
+[INFO ] [2023-02-24 14:47:46,138]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:47:46,139] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-24 14:47:46,229]  Step 2: Click to Cart button
+[INFO ] [2023-02-24 14:47:46,336] Is Your Card page displayed
+[INFO ] [2023-02-24 14:47:46,410]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-24 14:47:46,410] Check selected item is displayed in cart
+[INFO ] [2023-02-24 14:47:56,783] Close
+[INFO ] [2023-02-26 14:38:31,240] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 14:38:35,327] Login to System
+[INFO ] [2023-02-26 14:38:35,855] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 14:38:36,030] Select sort from drop down with Name (Z to A)
+[INFO ] [2023-02-26 14:38:36,205]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-26 14:38:36,209] Close
+[INFO ] [2023-02-26 14:39:36,650] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 14:39:39,953] Login to System
+[INFO ] [2023-02-26 14:39:40,479] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 14:39:40,695] Close
+[INFO ] [2023-02-26 14:40:10,130] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 14:40:13,001] Login to System
+[INFO ] [2023-02-26 14:40:13,595] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 14:40:13,780] Close
+[INFO ] [2023-02-26 14:41:46,049] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 14:41:48,752] Login to System
+[INFO ] [2023-02-26 14:41:49,309] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 14:41:49,565] Close
+[INFO ] [2023-02-26 14:42:55,760] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 14:42:58,406] Login to System
+[INFO ] [2023-02-26 14:42:59,033] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 14:42:59,317] Close
+[INFO ] [2023-02-26 14:45:14,243] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 14:45:17,000] Login to System
+[INFO ] [2023-02-26 14:45:17,634] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 14:45:17,922] Close
+[INFO ] [2023-02-26 14:50:11,158] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 14:50:14,903] Login to System
+[INFO ] [2023-02-26 14:50:15,453] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 14:50:15,665] Close
+[INFO ] [2023-02-26 14:55:09,295] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 14:55:13,153] Login to System
+[INFO ] [2023-02-26 14:55:13,751] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 14:55:14,203] Close
+[INFO ] [2023-02-26 14:59:18,573] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 14:59:21,539] Login to System
+[INFO ] [2023-02-26 14:59:22,101] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 14:59:22,371] Close
+[INFO ] [2023-02-26 15:07:06,618] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:07:09,528] Login to System
+[INFO ] [2023-02-26 15:07:10,088] Select sort from drop down with Name (Z to A)
+[INFO ] [2023-02-26 15:07:10,313]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-26 15:07:10,316] Close
+[INFO ] [2023-02-26 15:26:37,828] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:26:41,265] Login to System
+[INFO ] [2023-02-26 15:26:42,013] Select sort from drop down with Name (Z to A)
+[INFO ] [2023-02-26 15:26:42,185]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-26 15:26:42,188] Close
+[INFO ] [2023-02-26 15:27:05,728] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:27:08,421] Login to System
+[INFO ] [2023-02-26 15:27:09,284] Close
+[INFO ] [2023-02-26 15:27:58,270] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:28:01,198] Login to System
+[INFO ] [2023-02-26 15:28:02,040] Close
+[INFO ] [2023-02-26 15:32:15,386] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:32:18,256] Login to System
+[INFO ] [2023-02-26 15:32:19,036] Close
+[INFO ] [2023-02-26 15:51:51,970] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:51:54,643] Login to System
+[INFO ] [2023-02-26 15:51:55,256] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 15:51:55,468] Close
+[INFO ] [2023-02-26 15:52:26,598] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:52:29,234] Login to System
+[INFO ] [2023-02-26 15:52:29,979] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 15:52:30,193] Close
+[INFO ] [2023-02-26 15:55:16,354] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:55:19,032] Login to System
+[INFO ] [2023-02-26 15:55:19,684] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 15:55:19,940] Close
+[INFO ] [2023-02-26 15:56:33,636] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:56:37,018] Login to System
+[INFO ] [2023-02-26 15:56:37,663] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 15:56:37,969] Close
+[INFO ] [2023-02-26 15:57:44,354] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 15:57:47,021] Login to System
+[INFO ] [2023-02-26 15:57:47,720] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 15:57:47,937] Close
+[INFO ] [2023-02-26 16:01:06,442] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 16:01:09,333] Login to System
+[INFO ] [2023-02-26 16:01:09,876] Select sort from drop down with Name (A to Z)
+[INFO ] [2023-02-26 16:01:10,126]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-26 16:01:10,127] Select sort from drop down with Name (Z to A)
+[INFO ] [2023-02-26 16:01:10,349]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-26 16:01:10,352] Close
+[INFO ] [2023-02-26 16:03:17,619] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 16:03:20,388] Login to System
+[INFO ] [2023-02-26 16:03:20,994] Close
+[INFO ] [2023-02-26 16:04:00,560] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 16:04:03,199] Login to System
+[INFO ] [2023-02-26 16:04:04,155]  -------------------------- FAILED -------------------------- 
+[INFO ] [2023-02-26 16:04:04,518] Close
+[INFO ] [2023-02-26 16:05:37,526] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 16:05:40,168] Login to System
+[INFO ] [2023-02-26 16:05:41,313] Close
+[INFO ] [2023-02-26 16:06:16,110] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-26 16:06:18,729] Login to System
+[INFO ] [2023-02-26 16:06:19,616]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-26 16:06:19,620] Close
+[INFO ] [2023-02-27 08:19:37,779] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-27 08:19:40,992] Login to System
+[INFO ] [2023-02-27 08:19:41,638] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-27 08:19:43,361] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-27 08:19:45,201] Login to System
+[INFO ] [2023-02-27 08:19:45,813] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-27 08:19:47,654] Login to System
+[INFO ] [2023-02-27 08:19:48,307] Send key to User Name field
+[INFO ] [2023-02-27 08:19:48,512] Send key to Password field
+[INFO ] [2023-02-27 08:19:48,670] Click to Login button
+[INFO ] [2023-02-27 08:19:48,789] Verify login success through home page title
+[INFO ] [2023-02-27 08:19:48,833]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-27 08:19:48,835] CLick to item Sauce Labs Backpack
+[INFO ] [2023-02-27 08:19:48,951] Is quantity increase to 1
+[INFO ] [2023-02-27 08:19:49,034]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-27 08:19:49,036] Step 1: Add item Sauce Labs Backpack to cart
+[INFO ] [2023-02-27 08:19:49,127]  Step 2: Click to Cart button
+[INFO ] [2023-02-27 08:19:49,221] Is Your Card page displayed
+[INFO ] [2023-02-27 08:19:49,311]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-27 08:19:49,311] Check selected item is displayed in cart
+[INFO ] [2023-02-27 08:25:56,394] Pre condition: Open Browser: chromeand navigate to url:https://www.saucedemo.com/
+[INFO ] [2023-02-27 08:25:59,479] Send key to User Name field
+[INFO ] [2023-02-27 08:25:59,765] Send key to Password field
+[INFO ] [2023-02-27 08:25:59,934] Click to Login button
+[INFO ] [2023-02-27 08:26:00,068] Verify login success through home page title
+[INFO ] [2023-02-27 08:26:00,111]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-27 08:26:00,113] Send key to User Name field
+[INFO ] [2023-02-27 08:26:00,253] Send key to Password field
+[INFO ] [2023-02-27 08:26:00,419] Click to Login button
+[INFO ] [2023-02-27 08:26:00,510] Verify error message when input Invalid username and valid password
+[INFO ] [2023-02-27 08:26:00,541]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-27 08:26:00,543] Send key to User Name field
+[INFO ] [2023-02-27 08:26:00,713] Send key to Password field
+[INFO ] [2023-02-27 08:26:00,867] Click to Login button
+[INFO ] [2023-02-27 08:26:00,962] Verify error message when input Valid username and Invalid password
+[INFO ] [2023-02-27 08:26:00,979]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-27 08:26:00,980] Send key to User Name field
+[INFO ] [2023-02-27 08:26:01,143] Send key to Password field
+[INFO ] [2023-02-27 08:26:01,292] Click to Login button
+[INFO ] [2023-02-27 08:26:01,463] Verify login success through home page title
+[INFO ] [2023-02-27 08:26:01,513]  -------------------------- PASSED -------------------------- 
+[INFO ] [2023-02-27 08:26:01,514] Close
